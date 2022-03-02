@@ -1,2 +1,2 @@
-input("name")
+print("name")
 
